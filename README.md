@@ -58,6 +58,12 @@ This project is free and open-source. If it helped you as much as it helped me, 
 
 ---
 
+## ⚠️ Disclaimer
+
+The author is not responsible for any improper or potentially malicious use of this application by third parties. This software is provided "as is" and the author assumes no liability for any security vulnerabilities, data leaks, or damages that may arise from its use.
+
+---
+
 # 📄 License
 
 This project is licensed under the **European Union Public Licence v1.2 (EUPL v1.2)**.
